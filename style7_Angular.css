@@ -1,0 +1,16 @@
+.text-center{
+  border: 1cm;
+  border-style:inherit;
+
+}
+.container-fluid{
+
+  border: 5mm;
+  border-style:solid;
+  border-color: cadetblue;  
+}
+.style{
+  border: 5mm;
+  border-style:solid;
+  border-color: cadetblue;
+}
